@@ -1,0 +1,18 @@
+node_modules/
+
+# #imagen de node que contiene bash
+# FROM node:20
+
+# #Ruta que tendrá nuestro contenedor
+# WORKDIR /app 
+
+
+# #Copiamos el contenido de nuestra carpeta app en el workdir del contenedor
+# COPY ./app .
+
+# RUN npm install --force
+
+# #Ejecutamos la consola
+# CMD ["bash"]
+
+# # ENTRYPOINT ["npm run dev"]

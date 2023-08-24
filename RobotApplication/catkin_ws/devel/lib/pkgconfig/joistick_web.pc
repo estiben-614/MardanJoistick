@@ -1,0 +1,8 @@
+prefix=/catkin_ws/devel
+
+Name: joistick_web
+Description: Description of joistick_web
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
